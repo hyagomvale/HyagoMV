@@ -44,7 +44,7 @@
 ### Book Read
 - [But How Do It Know? - The Basic Principles of Computers for Everyone](https://www.amazon.com.br/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC)
 - [Java®: Como Programar](https://www.amazon.com.br/Java%C2%AE-como-programar-Paul-Deitel/dp/8543004799)
-- 
+- [Modelagem de sistemas orientados a objetos: Ensino didático](https://www.amazon.com.br/Modelagem-Sistemas-Orientados-S%C3%A9rgio-Furgeri/dp/8536504617)
 - 
 
 ### Articles Read
