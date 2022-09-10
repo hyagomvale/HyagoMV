@@ -30,7 +30,7 @@
 -Banco de Dados e SQL | Udemy
 
 ### Book Read
-- 
+- [But How Do It Know? - The Basic Principles of Computers for Everyone](https://www.amazon.com.br/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC)
 - 
 - 
 - 
