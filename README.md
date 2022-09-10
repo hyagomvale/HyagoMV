@@ -34,3 +34,6 @@
 - 
 - 
 - 
+
+### Articles Read
+- https://medium.com/@karlrombauts/building-an-8-bit-computer-in-logisim-part-1-building-blocks-a4f1e5ea0d03
