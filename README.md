@@ -1,18 +1,27 @@
 ## Hyago Mendonça Vale
-
+---
+### Skills
+---
 ### Academic Education
-- Graduated in Information System at UDF/Brasilia in 2016
-
-### Hackerrank
+- Graduated in Information System 
+  - University: Federal District University Center (UDF)  
+  - Place: Brasília/DF
+  - Period: 2012-2016
+---
+### Profiles
 - [Hackerrank Profile](https://www.hackerrank.com/hyagomvale)
-
-### Linkedin
 - [Linkedin Profile](https://www.linkedin.com/in/hyagomv/)
-
+---
 ### Working Experience
-- IT Intern at the Federal Supreme Court (STF)
-- GUI translator in Eclipse Babel Project
-
+- Federal Supreme Court (STF)
+  - Place: B
+  - Position: IT intern
+  - Period: 2014-2016   
+- Eclipse Babel Project
+  - Place: Remote Work
+  - Position: UI translator
+  - Period: 2018-2018 
+---
 ### Courses Done
 #### [Softblue](https://www.softblue.com.br/)
 
@@ -43,13 +52,11 @@
   - Courses Regular Expression
 
 #### [Udemy](https://www.udemy.com/)
-
-
+---
 ### Book Read
 - [But How Do It Know? - The Basic Principles of Computers for Everyone](https://www.amazon.com.br/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC)
 - [Java®: Como Programar](https://www.amazon.com.br/Java%C2%AE-como-programar-Paul-Deitel/dp/8543004799)
 - [Modelagem de sistemas orientados a objetos: Ensino didático](https://www.amazon.com.br/Modelagem-Sistemas-Orientados-S%C3%A9rgio-Furgeri/dp/8536504617)
-- 
-
+---
 ### Articles Read
 - [Building an 8-bit computer in Logisim](https://medium.com/@karlrombauts/building-an-8-bit-computer-in-logisim-part-1-building-blocks-a4f1e5ea0d03)
