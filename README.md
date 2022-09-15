@@ -60,3 +60,8 @@
 ---
 ### Articles Read
 - [Building an 8-bit computer in Logisim](https://medium.com/@karlrombauts/building-an-8-bit-computer-in-logisim-part-1-building-blocks-a4f1e5ea0d03)
+---
+### Hobby
+- Study Electronics
+- Read Books on Kindle
+- Play guitar
