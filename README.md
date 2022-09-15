@@ -65,3 +65,4 @@
 - Study Electronics
 - Read Books on Kindle
 - Play guitar
+- Watch Lives
