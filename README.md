@@ -10,8 +10,8 @@
 - [Linkedin Profile](https://www.linkedin.com/in/hyagomv/)
 
 ### Working Experience
-- IT Intern at the Federal Supreme Court (STF) from 2014 to 2016
-- GUI translator in Eclipse Babel Project from 2018 to 2018
+- IT Intern at the Federal Supreme Court (STF)
+- GUI translator in Eclipse Babel Project
 
 ### Courses Done
 #### [Softblue](https://www.softblue.com.br/)
