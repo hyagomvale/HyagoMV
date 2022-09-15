@@ -15,31 +15,35 @@
 
 ### Courses Done
 #### [Softblue](https://www.softblue.com.br/)
-- Curso de Fundamentos de Java
-- Java Web com Servlets e JSPs
-- SQL Completo
-- Lógica de Programação
-- Análise Orientada a Objetos
 
 #### [Algaworks](https://www.algaworks.com/)
-- Desenvolvimento Web com JSF 2
-- Fundamentos Java e Orientação a Objetos 
-- JPA e Hibernate
 
 #### [Alura](https://www.alura.com.br/)
-- Java EE - CDI, JSF, JPA | Alura
-- Java Reflection | Alura
-- Maven: Build do zero a web | Alura
-- Servlets: Fundamentos de Java na Web | Alura
-- Design Patterns Java I: Boas práticas de programação
-- Java: Dominando as Collections | Alura;
-- Expressões regulares | Alura
+- Java SE:
+  - Courses Java Collecions
+  - Courses Java Reflection 
+  - Courses Java Streams
+- Java Web:
+  - Courses Java Servlet
+  - Courses Spring MVC
+  - Courses Spring Boot
+- Java Persistence:
+  - Courses JDBC
+  - Courses Spring Data JPA
+  - Courses Hibernate
+- Java Test:
+  - Courses TDD
+  - Courses Junit
+  - Courses Mocks
+  - Courses Selenium 
+- Tools:
+  - Courses Apache Maven
+- Others:
+  - Courses Design Patterns
+  - Courses Regular Expression
 
 #### [Udemy](https://www.udemy.com/)
-- Spring Boot | Udemy
-- Microsserviçoes Java com Spring Boot e Spring Clound | Udemy
-- Testes Unitários em Java: Dominine JUnit, Mockito e TDD | Udemy
-- Banco de Dados e SQL | Udemy
+
 
 ### Book Read
 - [But How Do It Know? - The Basic Principles of Computers for Everyone](https://www.amazon.com.br/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC)
